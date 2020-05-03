@@ -1,0 +1,40 @@
+The results in 2nd line treatment show an ORR of 33% with some patients having durable responses resulting in an apparent PFS plateau
+The long duration of response and high durable response rate observed after 6-month minimum follow-up is further substantiated by the 12-months minimum follow-up analysis
+The median OS time in the updated results exceeded 1 year
+Therefore, the clinical benefit in 2nd line treatment is considered clinically meaningful and the magnitude of the effect is significant compared to chemotherapy
+The data provided in 1st line, although preliminary, showed activity of avelumab in mMCC in terms of response rate, and evidence of a similar durable response from the small subset of patients with a longer follow-up compared to 2nd line treatment
+Taking into account the intrinsic limitation of single arm studies, the rarity of the disease and the challenges to compare the results with data from historical controls and in the literature, the currently available data are deemed to support the efficacy of avelumab in both pre-treated and chemotherapy-naïve patients
+This medicinal product has been authorised under a so-called ‘conditional approval’ scheme
+This means that further evidence on this medicinal product is awaited
+The European Medicines Agency will review new information on this medicinal product at least every year and this SmPC will be updated as necessary
+The CHMP considers the following measures necessary to address the missing efficacy data for 1st line treatment in the context of a conditional MA:
+In order to confirm the efficacy for chemotherapy-naïve treated patients, the MAH should submit the final results of study EMR 100070-003 – Part B
+• PASS: German real-world cohort study should be submitted as additional PhV activity to address the missing information of safety and efficacy in immune compromised patients
+Biosimilarity of CT-P10 and MabThera is considered demonstrated based on the efficacy data.
+In the pivotal RA trial, efficacy results in terms of DAS28 and ACR were shown to be comparable between CT-P10 and MabThera.
+Additional safety data from maintenance study period CT-P10 3.3 and follow-up period should be provided (see RMP).
+The planned extension studies CT-P10 3.2 (RA) CT-P10 3.3 (AFL) and CT-P10 3.4 (LTBFL) listed in the RMP will provide additional long term safety data.
+A summary of the literature with regard to clinical data of Daptomycin Hospira and justifications that the product is essentially similar in properties with regards to safety and efficacy of the reference product was provided and was accepted by the CHMP.
+Based on the presented bioequivalence study Granpidam is considered bioequivalent with Viagra (reference product used).
+The results of study 084-09 with 100mg formulation can be extrapolated to other strengths 20mg, according to conditions in the Guidelines.
+There was no clinical efficacy study performed to support the biosimilarity claim.
+The bioequivalence study appears to have been well conducted.
+An acceptable justification for a biowaiver of Ivabradine Hydrochloride, 5 mg, film-coated tablets has been provided.
+to the EMA Guideline on the Investigation of Bioequivalence (CPMP/EWP/QWP/1401/98 Rev. 1/ Corr **), Ivabradine 5 mg film-coated tablets satisfy the conditions for waiver of bioequivalence studies conducted on the applied product 7.5 mg strength.
+The efficacy data of the two phase 3 placebo-controlled studies in patients who received background DMARDs showed that both dose regimens of sarilumab (150 mg q2w, 200 mg q2w) were superior to placebo regarding improvement of signs and symptoms (ACR20 responses), of physical function (change from baseline in HAQ-DI) and of progression in structural damage (mTSS, only study EFC11072).
+The active-comparator study demonstrated the efficacy of sarilumab as monotherapy and relative to the biologic DMARD adalimumab.
+Overall, the CHMP was of the view that the available clinical safety data were adequate for the purpose of assessing the safety of cladribine for the use as treatment of adult patients with highly active RMS.
+The CHMP considered this application acceptable from clinical point of view.
+The planned extension studies CT-P10 3.2 (RA) CT-P10 3.3 (AFL) and CT-P10 3.4 (LTBFL) listed in the RMP will provide additional long term safety data.
+Biosimilarity of CT-P10 and MabThera is considered demonstrated based on the efficacy data.
+In the pivotal RA trial, efficacy results in terms of DAS28 and ACR were shown to be comparable between CT-P10 and MabThera.
+Therefore, the available safety data are considered supportive of biosimilarity between CT-P10 and MabThera.
+Subjects with later-onset SMA who received nusinersen achieved and maintained motor function across multiple measures and milestones such as the ability to walk that are completely inconsistent with natural history
+The difference in magnitude across endpoints is in alignment with the understanding of the pathology of SMA, where deficiency in SMN protein leads to disease progression from events more proximal to the action of SMN such as declines in motor neuron health as measured by CMAP and CHOP INTEND, through those that are more distal, as measured by motor milestones and event-free survival
+• PAES: In order to evaluate the long term efficacy and safety of Nusinersen in pre-symptomatic patients with spinal muscular atrophy, the MAH should conduct and submit the results of the Phase 2, open-label study (NURTURE (SM201))
+Along with the needed data on efficacy and safety to be derived from the above studies, their protocols include PK data collections
+These are being used to collect the required PK data in order to enable the company to make future decisions about whether any dose adjustment, or further investigation in to dose adjustment, is required
+CSF data are being collected from both these studies and will be used in the comprehensive update to the Pop PK model
+Additionally, the following measures will contribute to the better understanding of the efficacy, safety and clinical applicability of the product: 
+• EMBRACE (SM202) - Phase 2, randomized, double-blind, sham- procedure controlled study to assess the safety, tolerability, PK, and efficacy in patients who were not eligible to participate in studies CS3b or CS4
+• Registries initiative - Collaborations with existing disease registries across the globe to capitalize on the available clinical experts and networks and modifying to be able to collect appropriate information and take in to account availability of medicinal product(s)
